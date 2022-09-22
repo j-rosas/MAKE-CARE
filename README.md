@@ -16,3 +16,5 @@ by a high dependence.
 Our Contributions
 Joaquin Rosas conceived the project, developed the product and oversaw its implementation. 
 It remains open source forever for anyone to fabricate and use.
+
+Feel free to download, manufacture, distribute the files as you want.
